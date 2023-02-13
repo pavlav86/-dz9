@@ -1,0 +1,15 @@
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/bin/Debug/net7.0/task2
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/bin/Debug/net7.0/task2.deps.json
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/bin/Debug/net7.0/task2.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/bin/Debug/net7.0/task2.pdb
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/refint/task2.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.pdb
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task2/obj/Debug/net7.0/ref/task2.dll

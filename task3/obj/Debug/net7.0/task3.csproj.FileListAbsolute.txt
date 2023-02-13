@@ -1,0 +1,15 @@
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/bin/Debug/net7.0/task3
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/bin/Debug/net7.0/task3.deps.json
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/bin/Debug/net7.0/task3.runtimeconfig.json
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/bin/Debug/net7.0/task3.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/bin/Debug/net7.0/task3.pdb
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.csproj.AssemblyReference.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.AssemblyInfoInputs.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.AssemblyInfo.cs
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.csproj.CoreCompileInputs.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/refint/task3.dll
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.pdb
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/task3.genruntimeconfig.cache
+/Users/Pavel/Desktop/УЧЕБА/c#/c#dz9/task3/obj/Debug/net7.0/ref/task3.dll
